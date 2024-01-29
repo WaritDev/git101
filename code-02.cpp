@@ -5,5 +5,5 @@ int main()
 {
     // cout console output
     // end line \n
-    cout << "Hello Git" << endl;
+    cout << "Love C++" << endl;
 }
